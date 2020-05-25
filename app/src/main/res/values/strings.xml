@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDoWee</string>
+    <string name="greetings">Good day! You have %1$s %2$s left </string>
+
+    <string name="add_todo_dialog_title">Add new task</string>
+    <string name="add_todo_dialog_hint">Task name</string>
+    <string name="add_todo_dialog_save">Save</string>
+    <string name="add_todo_dialog_cancel">Cancel</string>
+
+    <string name="edit_todo_dialog_title">Edit task</string>
+    <string name="edit_todo_dialog_delete">Delete</string>
+
+    <string name="empty_state">Tap the button bellow to add a task.</string>
+</resources>

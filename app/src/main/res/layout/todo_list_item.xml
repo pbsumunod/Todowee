@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="65dip"
+    android:layout_marginLeft="24dip"
+    android:layout_marginRight="24dip"
+    android:layout_marginBottom="24dip"
+    android:background="#FFFFFF"
+    android:elevation="2dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp">
+
+    <CheckBox
+        android:id="@+id/cb_todo"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:fontFamily="@font/roboto"
+        android:textColor="#555555"
+        android:textSize="17sp" />
+</LinearLayout>
